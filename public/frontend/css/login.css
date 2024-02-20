@@ -1,0 +1,29 @@
+#card{
+    background: -webkit-linear-gradient(#545871, #545871);
+       background: linear-gradient(#545871, #545871);
+       opacity: 0.75;
+       color: white;
+}
+#asaas{
+    text-align: center;
+    font-size: 30px;
+    font-style: normal;
+    font-family: monospace;
+}
+#cls{
+    margin-left: 110px;
+    margin-top: 5px;
+}
+#pasd{
+    margin-left: 13px;
+}
+
+#btn-2{
+
+    text-align: center;
+    margin-left: 275px;
+    margin-top: 10px;
+}
+#wwww{
+    margin-top: 85px;
+}

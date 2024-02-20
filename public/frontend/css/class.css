@@ -1,0 +1,35 @@
+#card{
+    background: -webkit-linear-gradient(#545871, #545871);
+       background: linear-gradient(#545871, #545871);
+       opacity: 0.75;
+       color: white;
+
+}
+#asaas{
+    text-align: center;
+    font-size: 30px;
+    font-style: normal;
+    font-family: monospace;
+
+
+}
+#cls{
+    margin-left: 110px;
+    margin-top: 5px;
+
+
+}
+#btn{
+
+    margin-left: 230px;
+    margin-top: 10px;
+}
+#cls1{
+    height: 40px;
+    width: 270px;
+    border-radius: 8px;
+}
+#opt-1{
+    text-align: center;
+    background-color: #adadad;
+}
